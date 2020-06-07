@@ -6,7 +6,7 @@ as well as the calendar year and an employee’s wage. (G. JAMES ET AL., 2013)<b
 The data that you will analyze are income survey data for males in the central Atlantic region of the USA. 
 The original data were manually assembled by Steve Miller, of Open BI, from the March 2011 Supplement to Current Population Survey data. 
 Check e.g. the following websites for more information:<br> 
-http://thedataweb.rm.census.gov/TheDataWeb
+http://thedataweb.rm.census.gov/TheDataWeb<br>
 https://www.census.gov/programs-surveys/cps/technical-documentation/methodology.html<br>
 The data that you will work on will be provided as a sample (sample size n=3000) of the original data mentioned above.<br>
 The data provides values for 12 different variables. The columns year, age, education and wage contain the records for the variables that represent calendar year, age of a male employee, educational attainment of a male employee and wage of a male employee. Extract the data of the columns year, age, education and wage and work on those only.<br>
